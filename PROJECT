@@ -1,0 +1,4 @@
+
+version: "1"
+domain: core.kubrid.io
+repo: github.com/kubrid/apiserver

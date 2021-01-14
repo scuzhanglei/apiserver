@@ -1,0 +1,7 @@
+note: VirtualMachineInstance Example
+sample: |
+  apiVersion: subresource.core.kubrid.io/v1alpha1
+  kind: VirtualMachineInstance
+  metadata:
+    name: virtualmachineinstance-example
+  spec:
